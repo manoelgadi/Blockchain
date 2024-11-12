@@ -40,11 +40,3 @@ This repository is currently not set up for contributions.
 **Disclaimer:**
 
 This README reflects the current state of the repository (as of November 12, 2024). 
-
-**Next Steps:**
-
-* Upload the materials for Session 7.
-* Consider adding descriptions to each folder explaining the content.
-* If the course is ongoing, update the README with information on future sessions.
-
-I hope this README clarifies the content of the repository and provides helpful links for further exploration.
